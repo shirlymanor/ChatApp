@@ -7,7 +7,7 @@ Technical spec:<br>
 4. Add referance to firebase and add your own firebase url <br>
 5. Set the bubble to look like a real chat app <br>
 
-
+![Alt text] (https://github.com/shirlymanor/ChatApp/blob/master/chat.gif "Chat App")
 
 
 
